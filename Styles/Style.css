@@ -13,7 +13,7 @@
 
 body {
     box-sizing: border-box;
-    background-color: #515155;
+    background-color: #2E294E;
     color: #F6F6F6;
 }
 
@@ -78,7 +78,7 @@ strong {
 }
 
 .apresentacao__links__link {
-    /* background-color: #16FF00; */
+    /* background-color: #01495a; */
     display: flex;
     justify-content: center;
     gap: 16px;
@@ -127,3 +127,4 @@ strong {
         width: auto;
     }
 }
+
